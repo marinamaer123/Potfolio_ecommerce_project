@@ -74,3 +74,9 @@ Repository Structure
 ├── powerbi/
 ├── images/
 └── README.md
+
+## Dashboard Preview
+### Main Dashboard
+![Main Dashboard](images/dashboard_main.png)
+### RFM Analysis
+![RFM Dashboard](images/rfm_analysis.png)
