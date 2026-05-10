@@ -80,5 +80,5 @@ Repository Structure
 ![Main Dashboard](images/dashboard_main.png)
 ### RFM Analysis
 ![RFM Dashboard](images/rfm_analysis.png)
-### Summary of thr project
-![Open Project Summary](summary of ecommerce project.pdf)
+### Summary of the project
+[Open Project Summary](ecommerce_project_summary.pdf)
